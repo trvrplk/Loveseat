@@ -1,3 +1,5 @@
-def connect_to(host)
-	`curl #{host}`
+require "loveseat/version"
+
+module Loveseat
+  # Your code goes here...
 end
