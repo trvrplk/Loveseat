@@ -1,5 +1,8 @@
 require "loveseat/version"
 
 module Loveseat
-  # Your code goes here...
+  def self.connct_to url
+  	`curl #{url}`
+  end	
+
 end
