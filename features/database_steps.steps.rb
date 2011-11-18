@@ -1,4 +1,5 @@
 require 'loveseat'
+
 Given /^IrisCouch is there$/ do
 end
 
