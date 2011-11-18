@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "loveseat"
   gem.homepage = "http://github.com/cookiebatch/loveseat"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Relax with Couch in Rails}
+  gem.description = %Q{Loveseat is an object mapper for RoR designed to be sort of like Mongoid}
   gem.email = "keymin1498@gmail.com"
   gem.authors = ["cookiebatch"]
   # dependencies defined in Gemfile
